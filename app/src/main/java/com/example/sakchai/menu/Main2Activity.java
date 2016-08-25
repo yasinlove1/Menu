@@ -20,7 +20,7 @@ public class Main2Activity extends AppCompatActivity {
                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(intent);
             }
-        } ,2000);
+        } ,3000);
 
 
     }//main method
